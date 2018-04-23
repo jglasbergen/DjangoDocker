@@ -20,10 +20,8 @@
 
 - **docker exec -ti ng01 bash**         // open bash shell in nginx container
 - **docker-compose exec nginx bash**    // open bash shell in nginx container
-
 - **docker exec -ti dg01 bash**         // open bash shell in web container
 - **docker-compose exec web bash**      // open bash shell in web container
-
 - **docker exec -ti ps01 bash**         // open bash shell in db container
 - **docker-compose exec db bash**       // open bash shell in db container
 
